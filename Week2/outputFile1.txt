@@ -1,0 +1,9 @@
+.ipynb_checkpoints
+CsvFilTilPython.csv
+InputFilTilPython.txt
+outputFile1.txt
+OutputFilTilPython.txt
+utils.py
+Week1 - List & Dictionary comprehensions.ipynb
+Week2 - Files & Modules.ipynb
+__pycache__
