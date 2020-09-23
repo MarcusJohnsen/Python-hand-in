@@ -8,5 +8,8 @@ Week 2:
 
 Week 3:
 
+
 Week 4:
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MarcusJohnsen/Python-hand-in/master?filepath=Week4%2FWeek4-assignments.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MarcusJohnsen/Python-hand-in/master?filepath=Week4%2FWeek4%20-%20Numpy.ipynb)
+
+Week 5:
