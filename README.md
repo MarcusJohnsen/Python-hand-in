@@ -12,4 +12,5 @@ Week 3:
 Week 4:   
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MarcusJohnsen/Python-hand-in/master?filepath=Week4%2FWeek4%20-%20Numpy.ipynb)
 
-Week 5:
+Week 5:     
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MarcusJohnsen/Python-hand-in/master?filepath=Week5%2FWeek5%20-%20Pandas.ipynb)
