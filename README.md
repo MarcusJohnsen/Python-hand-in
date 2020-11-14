@@ -16,10 +16,13 @@ Week 5:
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MarcusJohnsen/Python-hand-in/master?filepath=Week5%2FWeek5%20-%20Pandas.ipynb)
 
 Week 6:   
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MarcusJohnsen/Python-hand-in/HEAD?filepath=Week6%2Fmodule.ipynb)
 
 Week 7:   
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MarcusJohnsen/Python-hand-in/HEAD?filepath=Week7%2FWeek7.ipynb)
 
 Week 8:   
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MarcusJohnsen/Python-hand-in/HEAD?filepath=Week8%2FWeek8.ipynb)
 
 Week 9:   
 
