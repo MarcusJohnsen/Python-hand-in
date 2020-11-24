@@ -32,5 +32,4 @@ Week 10:
 Week 11:   
 
 Week 12:   
-
-Week 13:   
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MarcusJohnsen/Python-hand-in/HEAD?filepath=Week12%2FWeek12.ipynb)  
