@@ -28,8 +28,10 @@ Week 9:
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MarcusJohnsen/Python-hand-in/HEAD?filepath=Week9%2FWeek9.ipynb)
 
 Week 10:   
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MarcusJohnsen/Python-hand-in/HEAD?filepath=Week10%2FWeek10.ipynb)
 
 Week 11:   
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MarcusJohnsen/Python-hand-in/HEAD?filepath=Week11%2FWeek11.ipynb)
 
 Week 12:   
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MarcusJohnsen/Python-hand-in/HEAD?filepath=Week12%2FWeek12.ipynb)  
